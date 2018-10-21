@@ -1,0 +1,12 @@
+.submit-button {
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  overflow: hidden;
+  outline: none;
+  float: right;
+  margin-right: 0.3em;
+  color: rgba(42, 63, 84, 0.575);
+  size: "lg";
+  margin-bottom: 1em;
+}

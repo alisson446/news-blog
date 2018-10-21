@@ -1,0 +1,16 @@
+/blog-client/node_modules
+
+/blog-api/node_modules
+/blog-api/public/hot
+/blog-api/public/storage
+/blog-api/storage/*.key
+/blog-api/vendor
+/blog-api/.idea
+/blog-api/.vscode
+/blog-api/.vagrant
+/blog-api/Homestead.json
+/blog-api/Homestead.yaml
+/blog-api/npm-debug.log
+/blog-api/yarn-error.log
+/blog-api/.env
+/blog-api/.phpunit.result.cache

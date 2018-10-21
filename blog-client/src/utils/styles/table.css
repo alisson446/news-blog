@@ -1,0 +1,15 @@
+.table-row {
+  margin-top: 0.3em;
+}
+
+th {
+  text-align: center;
+}
+
+.update-icon, .delete-icon {
+  cursor: pointer;
+}
+
+.update-column, .delete-column {
+  width: 5%
+}

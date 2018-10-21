@@ -1,0 +1,25 @@
+.header {
+  background-color: #576378;
+  height: 5em;
+  padding: 2em;
+  color: #ddd;
+  text-align: center;
+  margin-bottom: 1.5em;
+  -webkit-box-shadow: 0em 0.4em 4em #ccc;
+  -moz-box-shadow: 0em 0.4em 4em #ccc;
+  box-shadow: 0em 0.4em 4em #ccc;
+}
+
+#sidebar-button {
+  margin: -0.5em;
+  margin-bottom:0;
+  float: left;
+  margin-right: 0.3em;
+}
+
+.header-title {
+  margin: -0.3em;
+  margin-bottom:0;
+  float: right;
+  margin-right: 0.3em;
+}
