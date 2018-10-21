@@ -12,5 +12,4 @@
 /blog-api/Homestead.yaml
 /blog-api/npm-debug.log
 /blog-api/yarn-error.log
-/blog-api/.env
 /blog-api/.phpunit.result.cache
