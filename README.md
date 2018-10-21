@@ -6,8 +6,8 @@ Um projeto de blog simples contendo as pastas de servidor e cliente da aplicaç�
 suas informações de conexão com o banco de dados Mysql. Além disso, é necessário ter o banco "blog" criado nessa mesma
 conexão para que as migrations possam funcionar
 
-* Execute os comandos `composer install`, `php artisan migrate` e em seguida rode o servidor na porta 8000 
+* Dentro da pasta "blog-server", execute os comandos `composer install`, `php artisan migrate` e em seguida rode o servidor na porta 8000 
 `php -S localhost:8000 -t public`
 
 ### blog-server
-* Basta instalar as dependências  com o comando `yarn install` ou `npm install` e rodar o servidor `yarn start` | `npm start`  
+* Dentro do diretório "blog-client, basta instalar as dependências  com o comando `yarn install` ou `npm install` e rodar o servidor `yarn start` | `npm start`  
