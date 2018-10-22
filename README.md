@@ -10,4 +10,4 @@ conexão para que as migrations possam funcionar
 `php -S localhost:8000 -t public`
 
 ### blog-client
-* Dentro do diretório "blog-client, basta instalar as dependências  com o comando `yarn install` ou `npm install` e rodar o servidor `yarn start` | `npm start`  
+* Dentro do diretório "blog-client", basta instalar as dependências  com o comando `npm install` e rodar o servidor `npm start`  
